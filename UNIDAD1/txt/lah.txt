@@ -1,0 +1,13 @@
+src= rwxrwxr-x =775
+logs= rwxrwx-x =775
+docs= rwxrwx-x =775
+README.TXT = -rw-r--r-- = 644
+.. = drwxr-x-- =750
+. = drwxrwxr-x = 775
+
+
+        |  Admin  |  Grupo  |  Otros  |
+   r    |   sí    |   sí    |   sí    |
+   w    |   sí    |   sí    |   no    |
+   x    |   sí    |   sí    |   sí    |
+ Total  |    7    |    7    |    5    |
